@@ -1,2 +1,2 @@
-Sistema de reserva para gimnasios
+Gym reservation system
 
