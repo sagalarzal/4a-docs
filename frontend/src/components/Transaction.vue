@@ -6,7 +6,7 @@
 
       <form v-on:submit.prevent="processTransaction">
       <select v-model="createBooking.gym">
-        <option disabled value="">Seleccione un Gimnasio</option>
+        <option disabled>Seleccione un Gimnasio</option>
         <option value="Rosales">Rosales</option>
         <option value="Las Lomas">Las Lomas</option>
         <option value="Salitre">Salitre</option>
